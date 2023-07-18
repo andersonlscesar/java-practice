@@ -46,7 +46,7 @@ public class BinarySearch {
     {
         for (int item: this.items)
         {
-            System.out.print(item);
+            System.out.print(item + " ");
         }
     }
 }
