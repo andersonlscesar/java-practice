@@ -1,4 +1,3 @@
-package algbook;
 
 public class BinarySearch {
     int[] items;
